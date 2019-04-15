@@ -1,0 +1,6 @@
+projectKey=com.ali:gestion
+serverUrl=http://localhost:9000
+serverVersion=7.5.0.20543
+dashboardUrl=http://localhost:9000/dashboard?id=com.ali%3Agestion
+ceTaskId=AWmQM8wEVT65n1Ok1GUm
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AWmQM8wEVT65n1Ok1GUm
